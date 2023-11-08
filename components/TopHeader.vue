@@ -9,7 +9,7 @@
             alt="Teste de img no Nuxt"
           />
         </div>
-        <button class="btn_filmes" onClick="Teste()">Filmes</button>
+        <button class="btn_filmes" onclick="Teste()">Filmes</button>
       </div>
     </div>
   </header>

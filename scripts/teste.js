@@ -1,4 +1,4 @@
-const Teste=()=>{
-  console.log("Teste button.")
-};
+function Teste(){
+  console.log("Testing the button...")
+}
 export default Teste;
